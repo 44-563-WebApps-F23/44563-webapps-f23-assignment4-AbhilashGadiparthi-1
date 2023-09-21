@@ -2,4 +2,8 @@
 # WebApps-F23-Assignment-4
 A practice assignment for HTML with CSS
 
+<<<<<<< HEAD
 Hosted at - https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-AbhilashGadiparthi-1
+=======
+Hosted at <a href="https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-AbhilashGadiparthi-1"> Abhi's github </a>
+>>>>>>> 7dd183225e1b240138874b904e577de910c8f6e9
